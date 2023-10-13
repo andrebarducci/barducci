@@ -1,0 +1,62 @@
+h1{
+    color: white;
+    text-align: center;
+}
+div{
+    display: inline;
+    
+      
+}
+
+img{
+    width: 250;
+    height: 250;
+    display: flex;
+    margin: auto;
+}
+
+.perfil{
+    max-width: 700px;
+    padding: 0px 0px 80px 0px;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+#botao-perfil{
+    width: 160px;
+    height: 160px;
+}
+   
+#botao-perfil:hover{
+    border: solid 4px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 24px;
+}
+
+ button{
+    margin: auto;
+    justify-content: center;
+    padding: 2px 80px 2px 80px;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 16pt;
+    border: solid 2px;
+    border-color: aliceblue;
+    border-radius: 20px;
+    display: flex;
+    }
+ 
+button:hover{
+    background-color: rgb(255, 255, 255);
+    color:black    
+}
+ 
+
+
+ 
+  
+  
+
